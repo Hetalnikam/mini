@@ -1,0 +1,5 @@
+1
+& C:/Python312/python.exe c:/MIN/Real-Time-Face-Recognition-Using-CNN/01_face_dataset.py
+hetal
+siya
+neha
